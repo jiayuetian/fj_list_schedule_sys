@@ -24,7 +24,7 @@
 #define RUN 2
 
 #define TASK_NUM 4
-#define CORE_NUM 4
+#define CORE_NUM 12
 #define SUBTASK_NUM 32
 #define FINISH_BOUND TASK_NUM*CORE_NUM
 
