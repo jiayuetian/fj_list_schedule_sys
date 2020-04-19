@@ -41,7 +41,7 @@
 #define RUN 2
 
 #define TASK_NUM 4
-#define CORE_NUM 4
+#define CORE_NUM 12
 #define SUBTASK_NUM 27
 #define RECUR_TIME 4
 
